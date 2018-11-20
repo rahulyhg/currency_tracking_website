@@ -1,0 +1,21 @@
+
+footer {
+       padding-top: 20px;
+       text-align: center;
+    }
+   .clearfix{
+   	text-align: center;
+   }
+   .line
+{
+    background-color: black;
+    border: 0 none;
+    color: black;
+    height: 10px;
+}
+
+.homepageimg{
+  width:100%;
+}
+
+
