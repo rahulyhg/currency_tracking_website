@@ -1,5 +1,1 @@
-Grocery CRUD
-=============
-Grocery CRUD is a PHP and Codeigniter Framework library that creates a full functional CRUD system without the need to customise JavaScript or CSS.
-
-For more information, visit http://www.grocerycrud.com
+A web application using CodeIgniter PHP MVC Framework and Grocery CRUD. Which can register and login users. Keep track of different currencies and exchange rates. Watch prices of products in different currencies, price history of products and inform users of upcoming sales and price drops in a year.
